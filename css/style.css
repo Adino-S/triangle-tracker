@@ -1,3 +1,17 @@
+triangle{
+  width: 0px;
+  height:0px;
+  background-color: red;
+  border-top: solid blue;
+  border-bottom: solid green;
+  border-left: solid blue;
+  border-right: solid yellow;
+  }
+
+
+
+
+
 title {
   color: #F7FAF2;
   background-color: #6E1208;
