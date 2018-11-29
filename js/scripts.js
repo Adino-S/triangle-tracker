@@ -4,18 +4,33 @@ a<b+c,b<c+a,c<a+b = constant
 
 Equilateral
  a===b===c equilateral
-
+ var eqTri= (a===b===c);
+for (var index = 1; index=== index; index =<1) {
+alert(Equilateral);
+}
+ 
 
 Scalene
 a!==b!==c!==a
 
+
 Isosclene
-if (length a===b; b===c; a!==c;) {
-  console.log("Brr! Don't freeze out there!");
-} else if (a===c; c===b; b!==a) {
-  console.log("Don't forget a jacket!");
-} else (a===b a===c c!==b)
-  console.log("Keep cool today!");
+]
+  function
+
+      var a= parseInt(prompt("Enter the value of side a"));
+      var b= parseInt(prompt("Enter the value of side b"));
+      var c= parseInt(prompt("Enter the value of side c")); {
+     if ( a===b && b===c && a!==c) {
+    console.log("iscoceles");
+  } else if (a===c && c===b && b!==a);
+    console.log("iscocele");
+  } else (a===b && a===c && c!==b);
+    console.log("iscocele");
+      }
+
+     var message= console.log(a==b==c);
+
 
 //total number of prompts stop at 3
 var total = 0;
