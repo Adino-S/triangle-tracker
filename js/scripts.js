@@ -1,6 +1,14 @@
 
-a===b===c = equilateral
-a===b; b===c; a!==c
+
+Equilateral
+ a===b===c equilateral
+
+Isoclene
+ if a===b; b===c; a!==c;
+else if a===c; c===b; b!==a
+  else  a===b a===c c!==b
+
+Scalene
 a!==b!==c
 
 
