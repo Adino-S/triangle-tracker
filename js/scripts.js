@@ -1,3 +1,10 @@
+
+a===b===c = equilateral
+a===b; b===c; a!==c
+a!==b!==c
+
+
+
 var add= function(number1,number2){
   return number1+number2;
 };
@@ -45,3 +52,25 @@ if (temperature < 0) {
 } else {
   console.log("Keep cool today!");
 }
+//function for calculating the triangle
+var total = 0;
+var summands = [1, 2, 3, 4, 5];
+summands.forEach(function(summand) {
+  total += summand;
+});
+alert(total);  // 15
+
+//initializing the loop to a total of three counts for the triangle
+var total = 0;
+for (var currentNumber = 1; currentNumber <= 3; currentNumber += 1) {
+  total += currentNumber;
+}
+alert("Total is: " + total);
+//shopping list each listed on console
+var shoppingItems = prompt ("key in item into shopping bag");
+
+var responses = shoppingItems.split(",");
+
+var item = responses.forEach(function(response){
+	console.log(response);
+});
