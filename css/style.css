@@ -1,4 +1,4 @@
-triangle{
+tri{
   width: 0px;
   height:0px;
   background-color: red;
@@ -7,10 +7,6 @@ triangle{
   border-left: solid blue;
   border-right: solid yellow;
   }
-
-
-
-
 
 title {
   color: #F7FAF2;
