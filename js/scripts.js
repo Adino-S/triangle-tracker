@@ -1,16 +1,28 @@
 
+Basic inequality
+a<b+c,b<c+a,c<a+b = constant
 
 Equilateral
  a===b===c equilateral
 
-Isoclene
- if a===b; b===c; a!==c;
-else if a===c; c===b; b!==a
-  else  a===b a===c c!==b
 
 Scalene
-a!==b!==c
+a!==b!==c!==a
 
+Isosclene
+if (length a===b; b===c; a!==c;) {
+  console.log("Brr! Don't freeze out there!");
+} else if (a===c; c===b; b!==a) {
+  console.log("Don't forget a jacket!");
+} else (a===b a===c c!==b)
+  console.log("Keep cool today!");
+
+//total number of prompts stop at 3
+var total = 0;
+for (var currentNumber = 1; currentNumber <= 3; currentNumber += 1) {
+  total += currentNumber;
+}
+alert("Total is: " + total);
 
 
 var add= function(number1,number2){
@@ -69,11 +81,7 @@ summands.forEach(function(summand) {
 alert(total);  // 15
 
 //initializing the loop to a total of three counts for the triangle
-var total = 0;
-for (var currentNumber = 1; currentNumber <= 3; currentNumber += 1) {
-  total += currentNumber;
-}
-alert("Total is: " + total);
+
 //shopping list each listed on console
 var shoppingItems = prompt ("key in item into shopping bag");
 
