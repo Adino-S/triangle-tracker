@@ -13,13 +13,10 @@ Educates the playful user about three main types of triangles, and whether or no
 - Scalane triangle
 - Not a triangle
 
-#Looping
-Just finished working on this project. Don't forget to see how well the profile pic floats and blends into the page: the links and cool text!
+#JavaScript
+The game was developed using JavaScript operators, arithmetic operators, strings and arrays, to create a loop that asks the users to key in three series of numbers in determining the type of triangle. Control flows were used to direct the response provided to both the user, and on the console log.
+
 [Adino's Moringa profile page](https://github.com/Adino-S/Friday-Assignments/blob/master/index.html)
 
-#if..Else
-My very first website had the cutest elephant! It was running it's trunk in the sand in the ocean. Check it out!
-[My first website](https://github.com/Adino-S/my-first-website/blob/master/index.html)
-
-#HTML& CSS for user-interface:
-Conceptualised and work with a multi-disciplinary team of doctors, nutritionists, biochemists, software engineers, UI designers and graphic designers to create an application that would empower people to live a healthy, engaged, productive and happy-filled life.
+####Bugs:
+Users computer and internet may lead to a false response.
