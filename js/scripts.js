@@ -1,4 +1,4 @@
-function triangles () {
+function triangles() {
   var a= parseInt(prompt("Enter the value of side a"));
   var b= parseInt(prompt("Enter the value of side b"));
   var c= parseInt(prompt("Enter the value of side c"));
@@ -15,10 +15,9 @@ function triangles () {
   else if (a===b && a===c && c!==b) {
       console.log("iscoscele");
     }
-  else if (a!==b!==c);{
+  else if (a!==b!==c) {
     console.log("scalene");
-    }
-    else {
-    console.log ("NOT A TRIANGLE");
-    }
+  } else {
+    console.log("Not a triangle");
   }
+}
