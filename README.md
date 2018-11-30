@@ -5,6 +5,8 @@
 
 ## Created by **ADINO OLAGO**
 
+## BDD
+The moving triangle is a simple game used to help children think through types of triangles. Targeting children, it uses the vertices of a triangle to determine it type; rather than area and other complicated aspects. We decided to make the page simple and fun, and opted for an image that was fun and engaging.
 
 ## Set Up Instruction
 This games educates the playful user about three main types of triangles, and whether or not, what they have is just not a triangle! The user keys in the digits they have into the html form, and the results are printed.
