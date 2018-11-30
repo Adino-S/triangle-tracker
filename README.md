@@ -1,9 +1,17 @@
+![The Moving Triangle](https://github.com/iharsh234/WebApp.git)
+
 # **THE MOVING TRIANGLE**
-### This page tells the user whether they've created an equilateral, isoclene or scalane triangle. It's meant to be fun while educating them.
-### CREATED BY **ADINO OLAGO**
-![Adino Olago](https://github.com/Adino-S/Adino-Friday-23-November-Assignment/blob/master/Images/AdinoProfilePic.png)
-## JavaScript Coding
-The calculation was based on the !
+### This is a fun game of identifying types of triangles.
+
+#Created by **ADINO OLAGO**
+
+
+#Types of Triangles it identifies
+Educates the playful user about three main types of triangles, and whether or not, what they have is just not a triangle!
+- Isosceles triangle
+- Equilateral triangle
+- Scalane triangle
+- Not a triangle
 
 #Looping
 Just finished working on this project. Don't forget to see how well the profile pic floats and blends into the page: the links and cool text!
