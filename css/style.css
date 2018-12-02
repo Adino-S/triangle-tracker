@@ -15,10 +15,11 @@ title {
   font-style: bold;
   text-align: center;
 }
-#intro {
-  font-style: normal;
-  font-size: 25px;
-  font-family: monospace;
+.input {
+    padding:5px;
+    border:2px solid #ccc;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
 }
 h1 {
   color: green;

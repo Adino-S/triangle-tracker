@@ -6,17 +6,17 @@ function triangles() {
   if (a===b && b===c && a===c){
    console.log("Equilateral!");
   }
-  else if (a===b && b===c && a!==c) {
-      console.log("iscosceles");
+  else if (a!==b && b!==c) {
+      console.log("scalene");
     }
-  else if (a===c && c===b && b!==a) {
-      console.log("iscoscele");
+  else if (a===c && b!==a) {
+      console.log("Isosceles");
     }
-  else if (a===b && a===c && c!==b) {
-      console.log("iscoscele");
+  else if (a===b && c!==b) {
+      console.log("Isosceles");
     }
-  else if (a!==b!==c) {
-    console.log("scalene");
+  else if (a===b && a!==c) {
+      console.log("Isosceles");
   } else {
     console.log("Not a triangle");
   }
