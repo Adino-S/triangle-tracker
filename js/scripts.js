@@ -4,20 +4,20 @@ function triangles() {
   var c= parseInt(prompt("Enter the value of side c"));
 
   if (a===b && b===c && a===c){
-   console.log("Equilateral!");
+   alert("Equilateral!");
   }
   else if (a!==b && b!==c) {
-      console.log("scalene");
+      alert("scalene");
     }
   else if (a===c && b!==a) {
-      console.log("Isosceles");
+      alert("Isosceles");
     }
   else if (a===b && c!==b) {
-      console.log("Isosceles");
+      alert("Isosceles");
     }
   else if (a===b && a!==c) {
-      console.log("Isosceles");
+      alert("Isosceles");
   } else {
-    console.log("Not a triangle");
+    alert("Not a triangle");
   }
 }
