@@ -1,6 +1,6 @@
 ![The Moving Triangle](https://github.com/Adino-S/triangle-tracker/blob/master/Images/trigame.png)
 
-# ![**THE MOVING TRIANGLE**](https://adino-s.github.io/triangle-tracker/)
+# [**THE MOVING TRIANGLE**](https://adino-s.github.io/triangle-tracker/)
 ### This is a fun game of identifying types of triangles.
 
 ## Created by **ADINO OLAGO**
