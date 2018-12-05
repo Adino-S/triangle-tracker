@@ -8,7 +8,7 @@
 ## About the moving triangle
 The moving triangle is a simple game to determine types of triangles. It uses the vertices of a triangle to determine whether the input (numbers) relay a triangle or not; and if so, what type of triangle the type of triangle it is.
 
-##Behaviour Driven Development
+## Behaviour Driven Development
 There are three main behaviour driven aspects to this webpage: page collects three sets of numbers from the user, carries out an analysis through user's click of the submit button, and results that are relayed through a prompt that indicates the answer in text.
 
 - The page requests for three sets of numbers from the user to represent the 3 types of sides of a triangle
@@ -18,7 +18,7 @@ There are three main behaviour driven aspects to this webpage: page collects thr
 [The Moving Triangle Game](file:///Users/sharonolago/Documents/moringa-school-projects/triangle-tracker/movingtriangle.html)
 
 ## Set Up Instruction
-
+Set up would require access to github pages; the webpage uses an index file linked on github pages. This would require membership and access to the Adino Olago repository. Log into github.com, search for Adino Olago, click on the tracking-triangles repository, where the whole file, and index page is situated.
 
 # **TECHNOLOGIES USED**
 ##HTML
